@@ -46,11 +46,10 @@ https://github.com/SGU-winter-study/CodingTestStudy
 ## 🌟 개인 알고리즘 스터디 🌟
 - <strong>겨울방학 목표</strong> 😤
 - 백준 플레티넘 달기!
-- [백준(SDS 기본반)](https://www.acmicpc.net/workbook/view/2047) 문제 풀기
+- https://github.com/encrypted-def/basic-algo-lecture 및 유튜브 알고리즘 강의 참고
+- https://ryute.tistory.com/m/33 단원별 문제 풀기
 - [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 풀고 프로그래머스 환경 익숙해지기
-- [백준(SDS 심화반)](https://www.acmicpc.net/workbook/view/2048)문제 풀기
-- 시뮬레이션 문제 뽀개기(리스트는 하단)
-- swea 문제풀기
+- SWEA 문제풀기
 
 ### :rainbow: Solved Problem List
 
@@ -59,9 +58,12 @@ https://github.com/SGU-winter-study/CodingTestStudy
 | 3주차   |        |        |
 
 
+<br><br>
+#### 이외 참고 사이트
 
-
-[시뮬뽀개기]
+[백준(SDS 심화반)](https://www.acmicpc.net/workbook/view/2048)
+[백준(SDS 기본반)](https://www.acmicpc.net/workbook/view/2047) <br>
+[시뮬뽀개기]<br>
 https://www.acmicpc.net/problem/2933
 https://www.acmicpc.net/problem/11559
 https://www.acmicpc.net/problem/3568
