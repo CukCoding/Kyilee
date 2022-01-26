@@ -40,6 +40,7 @@ https://github.com/SGU-winter-study/CodingTestStudy
 | 2주차(그리디)  | [2212-센서](https://www.acmicpc.net/problem/2212)        | [2839-설탕 배달](https://www.acmicpc.net/problem/2839)         | [4796 캠핑](https://www.acmicpc.net/problem/4796)              |
 | 3주차(그리디)  | [1202-보석 도둑](https://www.acmicpc.net/problem/1202)     | [1339-단어 수학](https://www.acmicpc.net/problem/1339)        | [1541-잃어버린 괄호](https://www.acmicpc.net/problem/1541)         |[10165-버스노선](https://www.acmicpc.net/problem/10165) 
 | 4주차(탐색)   | [2606-바이러스](https://www.acmicpc.net/problem/2606)      | [1697-숨바꼭질](https://www.acmicpc.net/problem/1697)          | [14502-연구소](https://www.acmicpc.net/problem/14502)                                                             |
+| 5주차(탐색)   | [2644-촌수계산](https://www.acmicpc.net/problem/2644)      | [2583-영역구하기](https://www.acmicpc.net/problem/2583)          | [10026-적록색약](https://www.acmicpc.net/problem/10026)       |    [16236-아기상어](https://www.acmicpc.net/problem/16236)                                                        |
 
 <br><br>
 
